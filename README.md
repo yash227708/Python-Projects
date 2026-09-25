@@ -1,2 +1,2 @@
 # calculator-in-python
-created my first python project: a calculator using if, else and elif statements
+Here are my python projects, from basic to advance, every project.
